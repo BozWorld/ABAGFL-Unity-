@@ -4,6 +4,8 @@ using UnityEngine;
 
 public class PlayerController : MonoBehaviour
 {
+    private PlayerInput playerInput;
+
     private void Awake() {
         
     }
